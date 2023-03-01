@@ -1,1 +1,2 @@
 hi this new new created file before statshing
+we completed git stash and stash pop
