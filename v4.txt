@@ -1,2 +1,0 @@
-this is not git file
-but after pushing code to repo let check wether reflecting in rep or not
