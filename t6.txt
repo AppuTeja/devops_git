@@ -1,2 +1,0 @@
-this is the file which we are adding to git
-i have added this fie to git and checking on modification of file.
